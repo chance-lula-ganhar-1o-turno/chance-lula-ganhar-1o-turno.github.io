@@ -2,15 +2,7 @@
 keywords: fastai
 description: A tutorial on how to collect, filter and prepare for analysis Brazil's 2022 presidential election polls data.
 title: Collecting Brazil's 2022 presidential election polls data
-toc: true 
-badges: true
-comments: true
-categories: [data-science]
-hide: false
-search_exclude: false
 image: images/chart-preview.png
-nb_path: _notebooks/2022-01-07-brazils-2022-presidential-elections-polls-analysis-part1.ipynb
-layout: notebook
 ---
 
 <!--
